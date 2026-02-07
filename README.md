@@ -63,7 +63,6 @@ I’m testing whether 10 million people can each give KES 1 online — just once
   <h1>The 1 Shilling Experiment</h1>
   <p>
     This is not charity.  
-    This is not pity.  
     This is a public experiment.
   </p>
   <p>
