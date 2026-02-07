@@ -6,7 +6,7 @@ I’m testing whether 10 million people can each give KES 1 online — just once
   <meta charset="UTF-8">
   <title>The 1 Shilling Experiment</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Can 10 million people each give 1 shilling? This is not charity. This is an experiment.">
+  <meta name="description" content="Can 10 million people each give 1 shilling? This is an experiment.">
 
   <style>
     body {
